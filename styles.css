@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Trispace&display=swap');
+
+body {
+    font-family: 'Trispace', sans-serif;
+    background: #acacac80;
+}
+
+.container {
+    border: 3px solid #212121cc;
+    max-width: 750px;
+    min-width: 300px;
+    margin: 0 auto;
+}
+
+input {
+    display: block;
+    width: 98%;
+    margin: 10px 2px;
+}
